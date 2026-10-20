@@ -5,8 +5,8 @@
 I am Jesús Gabriel, a 21 year old Business & Systems Engineering Student at Universidad Científica del Sur in Lima, Perú.
 I work with Python, HTML, CSS and JavaScript, and I'm building my path toward frontend development.
 
-<a href="https://tenor.com/view/psyduck-pok%C3%A9mon-laptop-on-fire-duck-gif-11352596389714363119">
-  <img align="right" width="180" hspace="15" vspace="5" alt="Psyduck" src="https://media1.tenor.com/m/nYyGRI9Ogu8AAAAd/psyduck-pok%C3%A9mon.gif" />
+<a href="https://tenor.com/es/view/zekrom-pokemon-zekrom-gif-10132524443341979240">
+  <img align="right" width="180" hspace="15" vspace="5" alt="Zekrom" src="https://tenor.com/es/view/zekrom-pokemon-zekrom-gif-10132524443341979240" />
 </a>
 
 * **I am interested in frontend development, design, and bringing things to life.**
