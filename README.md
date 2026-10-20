@@ -3,7 +3,9 @@
 
 
 
-<img align="right" width="300px" alt="Psyduck" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<a href="https://tenor.com/view/psyduck-pok%C3%A9mon-laptop-on-fire-duck-gif-11352596389714363119">
+  <img align="right" width="200" alt="Psyduck" src="https://media1.tenor.com/m/nYyGRI9Ogu8AAAAd/psyduck-pok%C3%A9mon.gif" />
+</a>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
