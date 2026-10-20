@@ -3,7 +3,7 @@
 
 
 
-<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://tenor.com/es/view/psyduck-pok%C3%A9mon-laptop-on-fire-duck-gif-11352596389714363119)" />
+<img align="right" width="300px" alt="Psyduck" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
