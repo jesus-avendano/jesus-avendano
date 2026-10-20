@@ -6,7 +6,7 @@ I am Jesús Gabriel, a 21 year old Business & Systems Engineering Student at Uni
 I work with Python, HTML, CSS and JavaScript, and I'm building my path toward frontend development.
 
 <a href="https://tenor.com/es/view/zekrom-pokemon-zekrom-gif-10132524443341979240">
-  <img align="right" width="180" hspace="15" vspace="5" alt="Zekrom" src="https://tenor.com/es/view/zekrom-pokemon-zekrom-gif-10132524443341979240" />
+  <img align="right" width="180" hspace="15" vspace="5" alt="Zekrom" src="https://tenor.com/meFes7LkAhU.gif" />
 </a>
 
 * **I am interested in frontend development, design, and bringing things to life.**
